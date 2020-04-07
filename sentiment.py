@@ -1,4 +1,3 @@
-import csv
 from textblob import TextBlob
 import xlrd 
 
